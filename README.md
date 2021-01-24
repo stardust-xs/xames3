@@ -10,7 +10,7 @@ I am **XA**, a **Software Developer** and an **Open Source** enthusiast from [Mu
 <details>
   <summary>2021</summary>
 
-  1. Make atleast **one** meaningful commit everyday.
+  1. Make atleast **one** meaningful ~~commit~~ contribution everyday.
   2. Learn and switch to **[Vim](https://www.vim.org/)** completely.
   3. ~~Try~~ Learn **[Bash](https://devhints.io/bash)** scripting.
   4. Try **[emacs](https://www.gnu.org/software/emacs/)** at least once.
