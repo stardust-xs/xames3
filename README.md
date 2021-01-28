@@ -10,10 +10,11 @@ I am **XA**, a **Software Developer** and an **Open Source** enthusiast from [Mu
 <details>
   <summary>2021</summary>
 
-  1. Make atleast **one** meaningful commit everyday.
+  1. Make atleast **one** meaningful ~~commit~~ contribution everyday.
   2. Learn and switch to **[Vim](https://www.vim.org/)** completely.
   3. ~~Try~~ Learn **[Bash](https://devhints.io/bash)** scripting.
   4. Try **[emacs](https://www.gnu.org/software/emacs/)** at least once.
+  5. Learn and implement **[Tox](https://tox.readthedocs.io/en/latest/)**, **[Travis CI](https://travis-ci.org/)** and **[PyTest](https://docs.pytest.org/en/stable/index.html)** in at least one of my "**open source**" projects.
 
 </details>
 
@@ -22,5 +23,6 @@ I am **XA**, a **Software Developer** and an **Open Source** enthusiast from [Mu
 
   1. Try to commit atleast **once** everyday.
   2. Start an **open source** project.
+  3. Teach **Python** for free to as many people as possible.
 
 </details>
