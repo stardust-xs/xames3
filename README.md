@@ -23,5 +23,6 @@ I am **XA**, a **Software Developer** and an **Open Source** enthusiast from [Mu
 
   1. Try to commit atleast **once** everyday.
   2. Start an **open source** project.
+  3. Teach **Python** for free to as many people as possible.
 
 </details>
