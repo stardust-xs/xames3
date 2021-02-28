@@ -11,10 +11,11 @@ I am **XA**, a **Software Developer** and an **Open Source** enthusiast from [**
   <summary>2021</summary>
 
   1. Make atleast **one** meaningful ~~commit~~ contribution everyday.
-  2. Learn ~~and switch to~~ **[Vim](https://www.vim.org/)** ~~completely~~ (lets be more\* practical here).
-  3. ~~Try~~ Learn **[Bash](https://devhints.io/bash)** scripting.
-  4. Try **[emacs](https://www.gnu.org/software/emacs/)** at least once.
-  5. Learn and implement **[Tox](https://tox.readthedocs.io/en/latest/)**, **[Travis CI](https://travis-ci.org/)** and **[PyTest](https://docs.pytest.org/en/stable/index.html)** in at least one of my "**open source**" projects.
+  2. Learn ~~and switch to~~ **[vim](https://www.vim.org/)** ~~completely~~ (lets be more\* practical here).
+  3. Let's throw some **[nano](https://www.nano-editor.org/)** in there as well ...
+  4. ~~Try~~ Learn **[bash](https://devhints.io/bash)** scripting.
+  5. Try **[emacs](https://www.gnu.org/software/emacs/)** at least once.
+  6. Learn and implement **[tox](https://tox.readthedocs.io/en/latest/)**, **[travis](https://travis-ci.org/)**/**[github actions](https://docs.github.com/en/actions)** and **[pytest](https://docs.pytest.org/en/stable/index.html)**.
 
 </details>
 
