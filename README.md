@@ -10,12 +10,14 @@ I am **XA**, a **Software Developer** and an **Open Source** enthusiast from [**
 <details>
   <summary>2021</summary>
 
-  1. Make atleast **one** meaningful ~~commit~~ contribution everyday.
-  2. Learn ~~and switch to~~ **[vim](https://www.vim.org/)** ~~completely~~ (lets be more\* practical here).
-  3. Let's throw some **[nano](https://www.nano-editor.org/)** in there as well ...
-  4. ~~Try~~ Learn **[bash](https://devhints.io/bash)** scripting.
-  5. Try **[emacs](https://www.gnu.org/software/emacs/)** at least once.
-  6. Learn and implement **[tox](https://tox.readthedocs.io/en/latest/)**, **[travis](https://travis-ci.org/)**/**[github actions](https://docs.github.com/en/actions)** and **[pytest](https://docs.pytest.org/en/stable/index.html)**.
+  (Updated as of Mar 09)
+  
+  1. Make atleast **one** meaningful ~~commit~~ contribution everyday (going good so far) ...
+  2. Learn ~~and switch to~~ **[vim](https://www.vim.org/)** ~~completely~~. Lets be more\* practical here (eh not so much) ... :expressionless:
+  3. Let's throw some **[nano](https://www.nano-editor.org/)** in there as well (almost done!!) ... :heavy_check_mark:
+  4. ~~Try~~ Learn **[bash](https://devhints.io/bash)** scripting (same as vim) ... :expressionless:
+  5. Try **[emacs](https://www.gnu.org/software/emacs/)** at least once (yet to unravel) ... :hushed:
+  6. Learn and implement **[tox](https://tox.readthedocs.io/en/latest/)**, **[travis](https://travis-ci.org/)**/**[github actions](https://docs.github.com/en/actions)** and **[pytest](https://docs.pytest.org/en/stable/index.html)** (in progress) ... :boom:
 
 </details>
 
