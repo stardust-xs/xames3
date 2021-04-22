@@ -10,7 +10,7 @@ I am **XA**, a **Software Developer** and an **Open Source** enthusiast from [**
 <details>
   <summary>2021</summary>
 
-  (Updated as of Mar 09)
+  (Updated as of Apr 22)
   
   1. Make atleast **one** meaningful ~~commit~~ contribution everyday (going good so far) ...
   2. Learn ~~and switch to~~ **[vim](https://www.vim.org/)** ~~completely~~. Lets be more\* practical here (eh not so much) ... :expressionless:
@@ -19,6 +19,7 @@ I am **XA**, a **Software Developer** and an **Open Source** enthusiast from [**
   5. Try **[emacs](https://www.gnu.org/software/emacs/)** at least once (yet to unravel) ... :hushed:
   6. Learn and implement **[tox](https://tox.readthedocs.io/en/latest/)**, **[travis](https://travis-ci.org/)**/**[github actions](https://docs.github.com/en/actions)** and **[pytest](https://docs.pytest.org/en/stable/index.html)** (in progress) ... :boom:
   7. Add new stuff to the **[Cheat Sheet](https://github.com/xames3/cheat_sheet/)** that I had started last year.
+  8. Teach Python and some stuff about OSS.
 
 </details>
 
